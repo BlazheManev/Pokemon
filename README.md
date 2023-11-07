@@ -1,4 +1,4 @@
-# PRIOT Frontend Interview Assignment
+#  Frontend Interview Assignment
 
 ### Setup
 
