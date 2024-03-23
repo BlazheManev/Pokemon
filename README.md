@@ -1,4 +1,4 @@
-#  Frontend Interview Assignment
+#  Frontend  Assignment
 
 ### Setup
 
@@ -58,13 +58,6 @@ The requirements for this application are as follows:
   - pages/index
   - pages/collection
 
-### Bonus points
-
-Use of Frontend patterns such as components and props are all good signs. Naming conventions, clean code etc.. will also help.
-
-But feel free to add any more functionality to the application aswell. The specifications above are more or less a guideline, but any upgrades to the app, any Quality of Life improvements, any error handling/validation, animations etc. implemented are all going to be bonus points. Maybe even alter the app so the searching of the Pokémons is more of a "catch" functionality. Maybe I want to click on a Pokémon in my collection and view its details on a separate page or dialog. Maybe I want more data when I visit a Pokémon's page...
-
-Be creative and show us what you've got! I've also provided some visual examples of the application in the assignment_resources folder to help you out :)
 
 ### Submition
 
